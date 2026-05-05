@@ -2,6 +2,6 @@
 #include <iostream>
 
 double absoluto(double x);
-double expTaylor();
-double senoTaylor();
-double cosenoTaylor();
+double expTaylor(double x);
+double senoTaylor(double x);
+double cosenoTaylor(double x);
